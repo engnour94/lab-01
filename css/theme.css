@@ -1,102 +1,102 @@
 
 @media (min-width: 768px) and (max-width: 960px){
-header{
-    background-color: pink;
-    border: 1px solid black;
-
-}
-
-.b{
-    background-color: pink;
-    border-bottom: 1px solid black;
-    border-left: 1px solid black;
-  
-}
-#d{
-    background-color: pink;
-    border-bottom: 1px solid black;
-    border-left: 1px solid black;
-    border-right: 1px solid black;
-
-}
-#c{
-    background-color: pink;
-    border-bottom: 1px solid black;
-    border-left: 1px solid black;
-}
-
-.efgh section{
-    background-color: pink;
-    border-bottom: 1px solid black;
-    border-left: 1px solid black;
-
-}
-
-.h{
-    border-right: 1px solid black;
-}
-.i{
-    background-color: pink;
-    border-bottom: 1px solid black;
-    border-right: 1px solid black;
-    border-left: 1px solid black;
-}}
-
-
-@media (min-width: 480px) and (max-width: 768px){
-
     header{
-        background-color:blueviolet;
+        background-color: pink;
         border: 1px solid black;
     
     }
-
+    
     .b{
-        background-color: blueviolet;
+        background-color: pink;
         border-bottom: 1px solid black;
         border-left: 1px solid black;
-        border-right: 1px solid black;
-    }
-    #c{
-        background-color: blueviolet;
-        border-bottom: 1px solid black;
-        border-left: 1px solid black;
-        border-right: 1px solid black;
+      
     }
     #d{
-        background-color: blueviolet;
+        background-color: pink;
         border-bottom: 1px solid black;
         border-left: 1px solid black;
         border-right: 1px solid black;
+    
     }
-
-    .ef  section{
+    #c{
+        background-color: pink;
+        border-bottom: 1px solid black;
+        border-left: 1px solid black;
+    }
+    
+    .efgh section{
+        background-color: pink;
+        border-bottom: 1px solid black;
+        border-left: 1px solid black;
+    
+    }
+    
+    .h{
+        border-right: 1px solid black;
+    }
+    .i{
+        background-color: pink;
+        border-bottom: 1px solid black;
+        border-right: 1px solid black;
+        border-left: 1px solid black;
+    }}
+    
+    
+    @media (min-width: 480px) and (max-width: 768px){
+    
+        header{
+            background-color:blueviolet;
+            border: 1px solid black;
+        
+        }
+    
+        .b{
+            background-color: blueviolet;
+            border-bottom: 1px solid black;
+            border-left: 1px solid black;
+            border-right: 1px solid black;
+        }
+        #c{
+            background-color: blueviolet;
+            border-bottom: 1px solid black;
+            border-left: 1px solid black;
+            border-right: 1px solid black;
+        }
+        #d{
+            background-color: blueviolet;
+            border-bottom: 1px solid black;
+            border-left: 1px solid black;
+            border-right: 1px solid black;
+        }
+    
+        .ef  section{
+            background-color: blueviolet;
+            border-bottom: 1px solid black;
+            border-left: 1px solid black;
+           
+        }
+        section.f {
+       
+        border-right: 1px solid black 
+    
+     }
+    
+     .gh  section{
         background-color: blueviolet;
         border-bottom: 1px solid black;
         border-left: 1px solid black;
        
     }
-    section.f {
-   
+    section.h {
+    
     border-right: 1px solid black 
-
- }
-
- .gh  section{
-    background-color: blueviolet;
-    border-bottom: 1px solid black;
-    border-left: 1px solid black;
-   
-}
-section.h {
-
-border-right: 1px solid black 
-
-}
-.i{
-    background-color: blueviolet;
-    border-bottom: 1px solid black;
-    border-left: 1px solid black;
-    border-right: 1px solid black;
-}
-}
+    
+    }
+    .i{
+        background-color: blueviolet;
+        border-bottom: 1px solid black;
+        border-left: 1px solid black;
+        border-right: 1px solid black;
+    }
+    }
