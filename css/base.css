@@ -14,9 +14,9 @@
     }
 }
 
-@media (min-width: 480px) and (max-width: 768px){
+@media (min-width: 480px) and (max-width: 767px){
     body, html {
-        width: 768px;
+        width: 767px;
         margin: auto;
     }
 } 

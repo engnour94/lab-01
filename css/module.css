@@ -22,10 +22,10 @@
         margin-right: 4px; 
     }
     
-    @media (min-width: 480px) and (max-width: 768px){
+    @media (min-width: 480px) and (max-width: 767px){
     
         div.ef {
-            margin-top: 128px;
+            margin-top: 127px;
         }
     
     .ef section{
