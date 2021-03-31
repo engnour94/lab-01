@@ -3,24 +3,3 @@
 }
 
 
-@media (min-width: 768px) and (max-width: 960px){
-
-    body, html{
-
-        width: 960px;
-      margin: 0 auto;
-     
-        
-    }
-}
-
-@media (min-width: 480px) and (max-width: 767px){
-    body, html {
-        width: 767px;
-        margin: auto;
-    }
-} 
-body{
-    width: 100%;
-    margin: auto;
-}
