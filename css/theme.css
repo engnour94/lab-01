@@ -1,35 +1,48 @@
 
     .a{
         background-color:#a8d8ea ;
+        border: 2px solid blue;
     }
     .b{
         background-color:#aa96da ;
+        border-bottom: 2px solid blue;
+        border-left:2px solid blue ;
+        border-right:2px solid blue ;
     }
     #c{
         background-color: #fcbad3;
+        border-right:2px solid blue ;
+        border-bottom: 2px solid blue;
     }
     #d{
         background-color: #7f4a88;
+        border-right:2px solid blue ;
+        border-bottom: 2px solid blue;
     }
     .e{
        background-color: #364f6b;
     }
     .f{
         background-color: #3fc1c9;
+        border-right:2px solid blue ;
     }
     .g{
         background-color: #fc5185;
+        border-right:2px solid blue ;
     }
     .h{
        background-color: #8785a2;
+       border-right:2px solid blue ;
     }
     .i{
         background-color: #a0ffe6;
+        border:2px solid blue ;
+border-left: none;
      }
     
      @media (min-width: 960px){
          body{
-            background-color: black;
+            background-color:purple;
          }
 
      }
@@ -46,4 +59,19 @@
         body{
             background-color: #8e7f7f;
          }
+
+         .e ,#d,#c, .g,.h,.f{
+            border-left:2px solid blue ;
+
+        }
+        
+         .f{
+          
+            border-top:2px solid blue ;
+        } 
+
+         .i{
+          
+            border:2px solid blue ;}
+         
     }
